@@ -1,4 +1,4 @@
-# StockTrader
+# StockTrader Behavioral Contrast
 
 Multi-agent stock snapshot experiment: two LLM strategy personas and one evaluator share the same Yahoo Finance–derived metrics and produce comparable **BUY / HOLD / SELL** recommendations with short rationales. The goal is **behavioral contrast** (how different prompts interpret the same numbers), not production trading or return optimization.
 
